@@ -179,7 +179,7 @@ const currentGoals = {
 
 <div align="center">
 
-### 💡 Fun Fact
+### Fun Fact
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 
@@ -189,18 +189,8 @@ const currentGoals = {
 
 <div align="center">
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alatysavage254/alatysavage254/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alatysavage254/alatysavage254/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alatysavage254/alatysavage254/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/><br/>
-
 **Always building. Always improving. Always shipping.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
-
