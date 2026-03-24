@@ -1,10 +1,16 @@
-# Alaty
+<h1 align="center">⚡ Alaty</h1>
 
-Full Stack Engineer | MERN Stack | Building Scalable Web Applications
+<p align="center">
+  Full Stack Engineer • MERN Stack • Building Scalable Web Apps
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F3FBF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Engineer;Building+Real+Systems;Always+Learning+%F0%9F%9A%80" />
+</p>
 
 ---
 
-## Tech Stack
+## 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,firebase,tailwind,git,linux" />
@@ -12,25 +18,21 @@ Full Stack Engineer | MERN Stack | Building Scalable Web Applications
 
 ---
 
-## Featured Project — ACE VERSE
+## 🚀 Featured Project — ACE VERSE
 
-A modern full-stack social media platform built with the MERN stack.
+> A modern full-stack social media platform built with MERN stack.
 
-**Key Highlights**
-- Infinite scroll feed with real-time updates
+✨ **Key Features**
+- Infinite scroll feed (real-time updates)
 - Likes, comments, and follow system
 - JWT + Google OAuth authentication
 - Drag & drop image uploads
 - Dark mode UI with modern design
-- Fully responsive across devices
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=ACE+VERSE+Preview" alt="ACE VERSE preview" width="600"/>
-</p>
+- Responsive across all devices
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alatysavage254&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -39,7 +41,7 @@ A modern full-stack social media platform built with the MERN stack.
 
 ---
 
-## Activity Graph
+## ⚡ Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alatysavage254&theme=tokyo-night&hide_border=true" />
@@ -47,22 +49,22 @@ A modern full-stack social media platform built with the MERN stack.
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 - Building real-time full-stack applications  
 - Improving backend architecture & system design  
-- Creating clean, high-quality UI/UX  
-- Exploring AI-powered integrations for web apps  
+- Creating high-quality UI/UX experiences  
+- Exploring AI integrations in web apps  
 
 ---
 
-## Philosophy
+## 🧩 Philosophy
 
-Clean code. Scalable systems. Production-ready solutions.
+> Clean code. Scalable systems. Real-world impact.
 
 ---
 
-## Connect
+## 📫 Connect
 
 <p align="center">
   <a href="https://github.com/alatysavage254">
@@ -72,4 +74,6 @@ Clean code. Scalable systems. Production-ready solutions.
 
 ---
 
-Always building. Always improving.
+<p align="center">
+  ⚡ Always building. Always improving.
+</p>
