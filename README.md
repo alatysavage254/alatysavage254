@@ -1,6 +1,6 @@
 # Alaty
 
-Full Stack Engineer • MERN Stack • Building Scalable Web Applications
+Full Stack Engineer | MERN Stack | Building Scalable Web Applications
 
 ---
 
@@ -16,17 +16,21 @@ Full Stack Engineer • MERN Stack • Building Scalable Web Applications
 
 A modern full-stack social media platform built with the MERN stack.
 
-**Key Features**
+**Key Highlights**
 - Infinite scroll feed with real-time updates
 - Likes, comments, and follow system
 - JWT + Google OAuth authentication
 - Drag & drop image uploads
 - Dark mode UI with modern design
-- Responsive across all devices
+- Fully responsive across devices
+
+<p align="center">
+  <img src="https://via.placeholder.com/600x300.png?text=ACE+VERSE+Preview" alt="ACE VERSE preview" width="600"/>
+</p>
 
 ---
 
-## GitHub Analytics
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alatysavage254&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -47,14 +51,14 @@ A modern full-stack social media platform built with the MERN stack.
 
 - Building real-time full-stack applications  
 - Improving backend architecture & system design  
-- Creating high-quality UI/UX experiences  
-- Exploring AI integrations in web apps  
+- Creating clean, high-quality UI/UX  
+- Exploring AI-powered integrations for web apps  
 
 ---
 
 ## Philosophy
 
-Clean code. Scalable systems. Real-world impact.
+Clean code. Scalable systems. Production-ready solutions.
 
 ---
 
