@@ -1,1 +1,79 @@
-.
+<h1 align="center">⚡ Alaty</h1>
+
+<p align="center">
+  Full Stack Engineer • MERN Stack • Building Scalable Web Apps
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F3FBF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Engineer;Building+Real+Systems;Always+Learning+%F0%9F%9A%80" />
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,firebase,tailwind,git,linux" />
+</p>
+
+---
+
+## 🚀 Featured Project — ACE VERSE
+
+> A modern full-stack social media platform built with MERN stack.
+
+✨ **Key Features**
+- Infinite scroll feed (real-time updates)
+- Likes, comments, and follow system
+- JWT + Google OAuth authentication
+- Drag & drop image uploads
+- Dark mode UI with modern design
+- Responsive across all devices
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alatysavage254&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alatysavage254&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## ⚡ Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alatysavage254&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Building real-time full-stack applications  
+- Improving backend architecture & system design  
+- Creating high-quality UI/UX experiences  
+- Exploring AI integrations in web apps  
+
+---
+
+## 🧩 Philosophy
+
+> Clean code. Scalable systems. Real-world impact.
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://github.com/alatysavage254">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ Always building. Always improving.
+</p>
