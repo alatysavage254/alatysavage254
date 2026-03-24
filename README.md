@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ALATY&fontSize=80&fontAlignY=30&animation=twinkling&fontColor=fff" />
 
 <!-- Glitch Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Engineer+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%92%BB;Building+Scalable+Web+Apps+%E2%9A%A1;Always+Shipping%2C+Always+Learning+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Engineer;MERN+Stack+Specialist;Building+Scalable+Web+Apps;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
 
 <!-- Animated Badges -->
 <p>
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-## 🎯 Tech Arsenal
+## Tech Arsenal
 
 <!-- Animated Tech Stack -->
 <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,mongodb,firebase,tailwind,git,linux,vscode,postman,figma&perline=6&theme=dark" />
@@ -96,7 +96,7 @@ UI/UX        ███████████████████░░   9
 
 <!-- Stats Cards -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alatysavage254&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alatysavage254&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alatysavage254&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
 
 <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alatysavage254&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=FFFFFF" />
@@ -119,7 +119,7 @@ UI/UX        ███████████████████░░   9
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```typescript
 const currentGoals = {
@@ -179,7 +179,7 @@ const currentGoals = {
 
 <div align="center">
 
-###  Fun Fact
+### 💡 Fun Fact
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 
